@@ -1,0 +1,989 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"unorder",
+				"unordered_set"
+			],
+			[
+				"cla",
+				"class"
+			],
+			[
+				"clas",
+				"class"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "debug.h",
+			"settings":
+			{
+				"buffer_size": 896,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "solution.cpp",
+			"settings":
+			{
+				"buffer_size": 248,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pbds.cpp",
+			"settings":
+			{
+				"buffer_size": 1883,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "outputf.out",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "errorf.err",
+			"settings":
+			{
+				"buffer_size": 115,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"revert",
+					null,
+					"AwAAAAAAAAAAAAAAAAAAAAAAAAA9AAAAbnVtc1NldCB7IDYgNSA0IDMgMiAxIH0Kc3Ryc1NldCB7YmhhdnVrIHByZWV0YSBwcmVtIHN1cmVzaCB9CgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9AAAAAAAAAAAAAAA",
+					"CAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					3,
+					1,
+					"revert",
+					null,
+					"BQAAAAAAAAAAAAAAAAAAAAAAAAA9AAAAbnVtc1NldCB7IDYgNSA0IDMgMiAxIH0Kc3Ryc1NldCB7YmhhdnVrIHByZWV0YSBwcmVtIHN1cmVzaCB9CgAAAAAAAAAARAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAAAAAA",
+					"CAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					1,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAABEAAAAbnVtc1NldCB7IDYgNSA0IDMgMiAxIH0Kc3Ryc1NldCB7YmhhdnVrIG1heWFuayBwcmVldGEgcHJlbSBzdXJlc2ggfQoAAAAAAAAAAEQAAAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					2,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAABEAAAAbnVtc1NldCB7IDYgNSA0IDMgMiAxIH0Kc3Ryc1NldCB7YmhhdnVrIG1heWFuayBwcmVldGEgcHJlbSBzdXJlc2ggfQoAAAAAAAAAAEoAAAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					3,
+					1,
+					"revert",
+					null,
+					"BQAAAAAAAAAAAAAAAAAAAAAAAABKAAAAbnVtc1NldCB7IDYgNSA0IDMgMiAxIH0Kc3Ryc1NldCB7YmhhdnVrIG1heWFuayBwcmVldGEgcHJlbSBzYWhpbCBzdXJlc2ggfQoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					7,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAAVAAAAbnVtcyBbIDEgMiAzIDQgNSA2IF0KAAAAAAAAAAAqAAAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					8,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAAqAAAAbnVtcyBbIDEgMiAzIDQgNSA2IF0KbnVtcyBbIDEgMiAzIDQgNSA2IF0KAAAAAAAAAAAqAAAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					9,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAAqAAAAbnVtcyBbIDEgMiAzIDQgNSA2IF0KbnVtcyBbIDEgMiAzIDQgNSA2IF0KAAAAAAAAAAAtAAAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					10,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAAtAAAAbnVtcyBbIDEgMiAzIDQgNSA2IF0KbnVtcyBbIDEgMyA2IDEwIDE1IDIxIF0KAAAAAAAAAABBAAAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					11,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAABBAAAAbnVtcyBbIDEgMiAzIDQgNSA2IF0KaSAxCmkgMgppIDMKaSA0CmkgNQpudW1zIFsgMSAzIDYgMTAgMTUgMjEgXQoAAAAAAAAAAHMAAAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					12,
+					1,
+					"revert",
+					null,
+					"BgAAAAAAAAAAAAAAAAAAAAAAAABzAAAAbnVtcyBbIDEgMiAzIDQgNSA2IF0KaSAxCm51bXNbaV0gMgppIDIKbnVtc1tpXSAzCmkgMwpudW1zW2ldIDQKaSA0Cm51bXNbaV0gNQppIDUKbnVtc1tpXSA2Cm51bXMgWyAxIDMgNiAxMCAxNSAyMSBdCgAAAAAAAAAAcwAAAAAAAAAAAAAAAAAAAAAAAABzAAAAAAAAAAAAAAAAAAAAAAAAAHMAAAAAAAAAAAAAAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAAAAAAAAABzAAAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "inputf.in",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"terminus",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"treminus",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ori",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"termi",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"status ",
+				"Help: Indexing Status"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"terminu",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"ream",
+				"ReadmePlease"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"terminal",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/theCode/Documents/Codes/dsa_with_cpp/cpp_debug_sublime_environment"
+	],
+	"file_history":
+	[
+		"/C/Users/theCode/Documents/Codes/dsa_with_cpp/cpp_debug_sublime_environment/debug.h",
+		"/C/Users/theCode/Documents/Codes/dsa_with_cpp/cpp_debug_sublime_environment/main.cpp",
+		"/C/Users/theCode/Documents/Codes/dsa_with_cpp/cpp_debug_sublime_environment/solution.cpp",
+		"/C/Users/sures/Documents/Codes/cpp_debug/template.cpp",
+		"/C/Users/sures/Documents/Codes/CPP/03_STL/07_Debug_pro/template.cpp",
+		"/C/Users/sures/Documents/Codes/CPP/03_STL/07_Debug_pro/pbds.cpp",
+		"/C/Users/sures/Documents/Codes/CPP/03_STL/07_Debug_pro/input.txt",
+		"/C/Users/sures/Documents/Codes/CPP/03_STL/07_Debug_pro/error.txt",
+		"/C/Users/sures/Documents/Codes/CPP/03_STL/07_Debug_pro/output.txt",
+		"/C/Users/sures/AppData/Roaming/Sublime Text/Packages/User/Competive Programming C++",
+		"/C/Users/sures/AppData/Local/Temp/Rar$DIa2952.44921/Read Me.txt",
+		"/C/Users/sures/Downloads/Compressed/CLion.2021.3.1_YasDL.com/CLion.2021.3.1_YasDL.com/Crack/readme.txt",
+		"/C/Program Files/JetBrains/CLion 2021.3.1/bin/clion64.exe.vmoptions",
+		"/C/Users/sures/AppData/Local/Temp/Rar$DIb14388.37082/readme.txt",
+		"/C/Users/sures/Desktop/clion64.exe.vmoptions",
+		"/C/Users/sures/Downloads/Compressed/Read Me.txt",
+		"/C/Users/sures/Documents/Codes/CPP/03_STL/error.txt",
+		"/C/Users/sures/Documents/Codes/CPP/03_STL/output.txt",
+		"/C/Users/sures/Documents/Codes/CPP/03_STL/input.txt",
+		"/C/Users/sures/Documents/Codes/CPP/03_STL/debug.cpp",
+		"/C/Users/sures/Desktop/.vscode/launch.json",
+		"/C/Users/sures/Documents/Codes/CPP/03_STL/01_stl_intro/01_stl_example.cpp",
+		"/C/Users/sures/Documents/Codes/CPP/03_STL/04_associative_containers/01_set_&_multiset/01_lower_bound.cpp",
+		"/C/Users/sures/Documents/Codes/CPP/04_DSA/.vscode/settings.json",
+		"/C/Users/sures/Desktop/.vscode/c_cpp_properties.json",
+		"/C/Users/sures/AppData/Roaming/EpicPen/settings.json",
+		"/C/Users/sures/Documents/Codes/CPP/03_STL/cpp_basic.cpp",
+		"/D/Competitive/01. Array/2,3,4 SUM/Two Sum II - Sorted Rotated Array/Pair Sum in Rotated Sorted Array.cpp",
+		"/C/Users/sures/Documents/Codes/CPP/03_STL/cpp.cpp",
+		"/C/Users/sures/Documents/Codes/CPP/03_STL/.vscode/launch.json",
+		"/C/Users/sures/Downloads/Compressed/up4pc.com_Adobe Acrobat Pro DC Crack 2021.011.20039/Activation/install.txt",
+		"/C/Users/sures/AppData/Local/Temp/Rar$DIa18288.42451/Readme.txt",
+		"/C/Users/sures/Downloads/Compressed/up4pc.com_Adobe Acrobat Pro DC Crack 2021.011.20039/Activation/hosts.txt",
+		"/C/Users/sures/Documents/hosts",
+		"/C/Users/sures/Documents/winmail.dat",
+		"/C/Users/sures/Documents/Codes/CPP/03_STL/pythonTestcaseGenertor2.py",
+		"/C/Users/sures/Documents/Codes/CPP/03_STL/pythonfile.py",
+		"/C/Users/sures/Documents/NetBeansProjects/myPhone/internet.txt",
+		"/D/$UIET/!PU-UIET/payonline pu login details.txt",
+		"/C/Users/sures/AppData/Local/Temp/Rar$DIa11904.32155/3dmgame.ini",
+		"/C/Users/sures/Downloads/Compressed/Grids for Instagram 7.0.20/readme.txt",
+		"/C/Users/sures/Downloads/IDM.v6.40.Build.2.Retail.Final_AsanDl.com/install/Read Me.txt",
+		"/C/Users/sures/Downloads/Compressed/IDM.v6.40.Build.11.Retail.Final_AsanDl.com/install/Read Me.txt",
+		"/C/Users/sures/Downloads/fileInput.txt",
+		"/C/Users/sures/Documents/Codes/CPP/03_STL/test.js",
+		"/C/Users/sures/AppData/Local/Temp/Rar$DIa6984.43010/sample.cpp",
+		"/C/Users/sures/AppData/Local/Temp/Rar$DIb13176.24965/Read Me.txt",
+		"/C/Users/sures/Desktop/New folder/New folder/JetBrains.PyCharm.Professional.2021.3_YasDL.com/JetBrains.PyCharm.Professional.2021.3_YasDL.com/Crack/readme.txt",
+		"/C/Users/sures/Desktop/pycharm64.exe.vmoptions",
+		"/C/Users/sures/Desktop/New folder/New folder/StarUML.5.0.0_YasDL.com/StarUML.5.0.0_YasDL.com/Crack/ReadMe.txt",
+		"/C/Users/sures/Desktop/New folder/New folder/StarUML.5.0.0_YasDL.com/StarUML.5.0.0_YasDL.com/Read Me.txt",
+		"/C/Users/sures/AppData/Local/Temp/Rar$DIb8380.11170/readme.txt",
+		"/C/Users/sures/Downloads/client_secret_641872426295-hp9ss9eb02kienlfbo4ro9shuv04jpf4.apps.googleusercontent.com.json",
+		"/C/Users/sures/Documents/Codes/CPP/03_STL/pythonFileRanameScript.py",
+		"/C/Users/sures/Downloads/New folder/New folder/pythonFileRanameScript.py",
+		"/C/Users/sures/Documents/Codes/CPP/03_STL/pythonRandomNums.py",
+		"/C/Users/sures/Documents/Codes/CPP/03_STL/pythonTestcaseGenertor.py",
+		"/C/Users/sures/Documents/Codes/CPP/03_STL/cpp2.cpp",
+		"/C/Users/sures/Downloads/Compressed/[PiratePC.Me] SysTools SSD Data Recovery 9.0 With _/[PiratePC.Me] SysTools SSD Data Recovery 9.0 With Crack/Instructions.txt",
+		"//",
+		"/D/New Text Document.txt",
+		"/C/Users/sures/Desktop/Punjabi/71siH86xOsS.jpg",
+		"/C/ProgramData/Teorex/FolderIco/icons/Numbers_3/library.ini",
+		"/C/ProgramData/Teorex/FolderIco/icons/Numbers_1/library.ini",
+		"/C/ProgramData/Teorex/FolderIco/icons/Numbers_2/library.ini",
+		"/C/ProgramData/Teorex/FolderIco/icons/numbers 1/library.ini",
+		"/C/ProgramData/Teorex/FolderIco/icons/numbers 3/library.ini",
+		"/C/ProgramData/Teorex/FolderIco/icons/{d4340b34-d04d-4d79-a54e-3fa3232d8215}/library.ini",
+		"/C/ProgramData/Teorex/FolderIco/icons/numbers 2/library.ini",
+		"/C/ProgramData/Teorex/FolderIco/icons/numbers/library.ini",
+		"/E/zzz/Teorex/FolderIco/icons/_user-icons/en.ini",
+		"/D/Games/God_of_War-FLT/RARBG.txt",
+		"/C/Games/Sniper Ghost Warrior Contracts 2/Game.log",
+		"/C/Users/sures/Documents/Codes/CPP/03_STL/randomCopy.cpp",
+		"/C/Users/sures/Downloads/New Text Document.txt",
+		"/C/Users/sures/AppData/Local/Temp/Rar$DIa11308.12510/readme.txt",
+		"/C/ProgramData/MySQL/MySQL Server 8.0/my.ini",
+		"/D/$UIET/!PU-UIET/uiet login details.txt",
+		"/D/Games/God_of_War-FLT/fairlight.nfo",
+		"/C/Users/sures/Documents/Document.txt",
+		"/C/Users/sures/Downloads/Compressed/adobe photoshop 7.0 serial.txt",
+		"/C/Users/sures/AppData/Local/Temp/Rar$DIb17212.13899/Readme.txt",
+		"/C/Users/sures/AppData/Local/Temp/Rar$DIb17212.21649/Key.txt",
+		"/F/autorun.inf",
+		"/C/Users/sures/Downloads/a/autorun.inf",
+		"/C/Users/sures/Desktop/Horizon - Zero Dawn Complete Edition.iso",
+		"/C/Users/sures/AppData/Local/Temp/Rar$DIa16200.11150/READ ME.txt",
+		"/C/Users/sures/Downloads/desktop.ini",
+		"/C/Users/sures/Downloads/New folder/desktop.ini",
+		"/C/Users/sures/Desktop/VMware/VMware_VM_Settings.txt",
+		"/C/Users/sures/Documents/Virtual Machines/OS X 10.11/OS X 10.11.vmx",
+		"/C/Users/sures/Documents/Virtual Machines/OS X 10.11/OS X 10.11.vmxf",
+		"/C/Users/sures/Desktop/VMware/Serial.txt",
+		"/C/Users/sures/Desktop/VMware/VMware Unlocker/readme.txt",
+		"/C/Users/sures/Desktop/VMware/Instructions.txt",
+		"/C/Users/sures/Desktop/Mac OS 10.11 El Capitan VM Ware Version/Unlocker/unlocker204/unlocker204/readme.txt",
+		"/E/Users/Acer/Downloads/helper.user.js",
+		"/D/Apps/IDM/IDM.v6.40.Build.2.Retail.Final_AsanDl.com/install/Read Me.txt",
+		"/D/Apps/IDM/IDM.v6.40.Build.2.Retail.Final_AsanDl.com/install/Patch/Read Me.txt",
+		"/C/Users/sures/Documents/Codes/CPP/03_STL/house_robber.cpp",
+		"/C/Users/sures/Documents/Codes/CPP/03_STL/keyBoardRow.cpp",
+		"/C/Users/sures/Documents/Codes/CPP/03_STL/cpp_basic1.cpp",
+		"/C/Users/sures/AppData/Local/Temp/Rar$DIb11692.46423/SN.txt",
+		"/C/Users/sures/Documents/Codes/PYTHON/F_Heap_Problems/01_kth_largest_Element_Approach_1.py",
+		"/C/Users/sures/Documents/Codes/PYTHON/F_Heap_Problems/01_kth_largest_Element_Approach_2.py",
+		"/C/Users/sures/AppData/Roaming/Sublime Text/Packages/A File Icon/README.md",
+		"/D/Apps/Sublime Text/OpenWithSublimeText4.bat"
+	],
+	"find":
+	{
+		"height": 29.6
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "debug.h",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 896,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"tabs_extra_last_activated": 1667650052.08,
+							"tabs_extra_last_activated_sheet_index": 0,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "solution.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"tabs_extra_last_activated": 1667650051.06,
+							"tabs_extra_last_activated_sheet_index": 1,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "pbds.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1883,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"tabs_extra_last_activated": 1667650042.01,
+							"tabs_extra_last_activated_sheet_index": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "outputf.out",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tabs_extra_last_activated": 1667649985.44,
+							"tabs_extra_last_activated_sheet_index": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "errorf.err",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 115,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tabs_extra_last_activated": 1667649989.7,
+							"tabs_extra_last_activated_sheet_index": 1
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "inputf.in",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tabs_extra_last_activated": 1649916641.29,
+							"tabs_extra_last_activated_sheet_index": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.6
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.749711932613,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 126.400001526
+	},
+	"output.exec":
+	{
+		"height": 79.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Competive Programming C++.sublime-build",
+	"project": "cpp_competive_environment_setup.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
